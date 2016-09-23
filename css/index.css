@@ -113,7 +113,8 @@ html,body{ height: 100%; width: 100%; overflow: hidden; font-size: 0.12rem;}
 .slide7 img:nth-child(4){width: 2.24rem; height: 3.78rem; top: 0.6rem; left: 2.03rem;}
 .slide7 img:nth-child(5){ width: 1.6rem; height: 1.49rem;top: 0.16rem; left:0.7rem;}
 .slide7 img:nth-child(6){ width: 1.16rem; height: 1.17rem;top: 1.37rem;left: 0.95rem;}
-.slide7 img:nth-child(7){ width: 1.37rem; height: 0.32rem;top: 2.65rem;left: 0.85rem;}
+/*.slide7 img:nth-child(7){ width: 1.37rem; height: 0.32rem;top: 2.65rem;left: 0.85rem;}*/
+.slide7 img:nth-child(7){width: 0.65rem; height: 0.65rem;top: 1.64rem;left: 1.20rem;}
 .slide7 div{ position: absolute; opacity: 0;}
 .slide7 .slide7-txt{ width: 39%; height: 0.25rem;left: 0.90rem;top: 2.66rem;}
 .slide7 .slide7-txt a {width: 100%; height: 100%; line-height: 0.25rem;display: block;background-color: #ff8000;
